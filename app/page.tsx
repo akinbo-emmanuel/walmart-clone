@@ -3,7 +3,7 @@ import GridOption from "@/components/GridOption";
 export default function Home() {
   return (
     <main className="">
-      <div className="grid grid-cols-1 grid-flow-row-dense md:grid-cols-4 gap-6 m-6 ">
+      <div className="grid grid-cols-1 grid-flow-row-dense md:grid-cols-4 gap-3 m-3 sm:m-6 xl:mx-[7.5rem] ">
         <GridOption 
           title="Sweet gifts for free"
           image="https://links.papareact.com/1dy"
@@ -11,7 +11,7 @@ export default function Home() {
         />
         <GridOption 
           title="Shop wardrobe"
-          image="https://links.papareact.com/8ko"
+          image="http://tinyurl.com/4xa6e9wd"
           className="bg-blue-100 col-span-2 row-span-2"
         />
         <GridOption 
@@ -21,7 +21,7 @@ export default function Home() {
         />
         <GridOption 
           title="Shop Electronics"
-          image="https://links.papareact.com/n7r"
+          image="http://tinyurl.com/48z68mc9"
           className="bg-pink-200 h-64"
         />
         <GridOption 
@@ -36,7 +36,7 @@ export default function Home() {
         />
         <GridOption 
           title="Shop Gadgets"
-          image="https://links.papareact.com/gs1"
+          image="http://tinyurl.com/5n6jhwnv"
           className="bg-orange-100 h-64"
         />
         <GridOption 

@@ -14,6 +14,10 @@ const nextConfig = {
             protocol: 'https',
             hostname: 'i5.walmartimages.com',
           },
+          {
+            protocol: 'http',
+            hostname: 'tinyurl.com',
+          },
         ],
     },
 };
