@@ -24,7 +24,7 @@ const GridOption = ({ title, className, image }: Props) => {
                 src={image}
                 alt={title}
                 layout="fill"
-                className="object-cover opacity-20 hover:animate-pulse rounded-md"
+                className="object-cover opacity-20 hover:opacity-100 rounded-md"
             />
         )}
     </Link>
