@@ -66,7 +66,8 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-- **Twitter & Instagram**: [@_emmanuelakinbo](https://twitter.com/_emmanuelakinbo)
+- **Twitter**: [@_emmanuelakinbo](https://twitter.com/_emmanuelakinbo)
+- **Instagram**: [@_emmanuelakinbo](https://instagram.com/_emmanuelakinbo)
 - **Email**: emmanuelakinbo176@gmail.com
 - **LinkedIn**: [Emmanuel Akinbo](https://www.linkedin.com/in/emmanuel-akinbo)
 
