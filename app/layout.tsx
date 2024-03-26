@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Walmart Clone",
   description: "Walmart Clone is a web application built using Next.js, Oxylabs, Shadcn, and Zustand. It replicates the functionality of the Walmart website, featuring a homepage, search page, product page, and cart.",
-  keywords: ["Walmart Clone", "Next.js", "Oxylabs", "Shadcn", "Zustand", "Walmart website", "ecommerce", "shopping"],
+  keywords: ["Walmart Clone", "Next.js", "Tailwind CSS", "Oxylabs", "Shadcn", "Zustand", "Walmart website", "ecommerce", "shopping"],
   creator: "Emmanuel O. Akinbo",
 };
 
